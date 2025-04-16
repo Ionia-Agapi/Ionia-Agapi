@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 951e0b790f696bd4c951ebab57783c43
+timeCreated: 1502208112
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 28618
+  packageName: 2D Horror Kit
+  packageVersion: 2.0
+  assetPath: Assets/2D Horror/Scripts/GameScripts/CharacterGround.js
+  uploadId: 202056

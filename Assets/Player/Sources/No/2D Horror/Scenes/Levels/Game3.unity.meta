@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: feb0cd5520eeda047941d743465a400d
+timeCreated: 1505920370
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 28618
+  packageName: 2D Horror Kit
+  packageVersion: 2.0
+  assetPath: Assets/2D Horror/Scenes/Levels/Game3.unity
+  uploadId: 202056

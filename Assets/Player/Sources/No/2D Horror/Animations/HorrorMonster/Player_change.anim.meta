@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: af816e3dd61c6e94fbb8034f5007da0d
+timeCreated: 1497627993
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 28618
+  packageName: 2D Horror Kit
+  packageVersion: 2.0
+  assetPath: Assets/2D Horror/Animations/HorrorMonster/Player_change.anim
+  uploadId: 202056

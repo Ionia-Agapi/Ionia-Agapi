@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: c98be437622a9c94daedc48df645d120
+timeCreated: 1505995750
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 28618
+  packageName: 2D Horror Kit
+  packageVersion: 2.0
+  assetPath: Assets/2D Horror/Scripts/GamePlayScripts/JumpScareSoundMoreTimes.cs
+  uploadId: 202056

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8298d39f0dec62d4e9799c29857ed176
+timeCreated: 1505658680
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 28618
+  packageName: 2D Horror Kit
+  packageVersion: 2.0
+  assetPath: Assets/2D Horror/Scenes/Options.unity
+  uploadId: 202056

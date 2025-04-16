@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a0585b5b5060d2b4c87a6c87d9ab8105
+timeCreated: 1497548503
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 28618
+  packageName: 2D Horror Kit
+  packageVersion: 2.0
+  assetPath: Assets/2D Horror/Prefabs/Player.prefab
+  uploadId: 202056

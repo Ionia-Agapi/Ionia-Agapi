@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b96b41fdfe2404445947d59f69468836
+timeCreated: 1497628970
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 28618
+  packageName: 2D Horror Kit
+  packageVersion: 2.0
+  assetPath: Assets/2D Horror/Animations/HorrorMonster/Horror_Charackter32.controller
+  uploadId: 202056
