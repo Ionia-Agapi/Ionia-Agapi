@@ -83,6 +83,7 @@
   <ItemGroup>
     <None Include="Assets\Player\Sources\Yes\Free Effects for Platformer\License.txt" />
     <None Include="Assets\Player\Sources\Yes\Free Effects for Platformer\Font.txt" />
+    <None Include="Assets\Background\Stage235\waiting\Graduation Cat\HouseInteriorLITE\README.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
